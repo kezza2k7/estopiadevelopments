@@ -11,12 +11,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4  # Updated to use Node.js 20
+        uses: actions/checkout@v4
 
       - name: Set up Node.js
-        uses: actions/setup-node@v3  # Updated to use Node.js 20
+        uses: actions/setup-node@v3
         with:
-          node-version: '20'  # Updated to Node.js 20
+          node-version: '20'
 
       - name: Install dependencies
         run: npm install --global retypeapp
@@ -27,10 +27,24 @@ jobs:
       - name: List files for debugging
         run: ls -la .retype
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4  # Updated to use Node.js 20
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
         with:
+          path: ./.retype  # Path to the directory containing the static site files
+
+  deploy:
+    needs: build-and-deploy
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write  # Grants the workflow permission to upload artifacts to GitHub Pages
+      id-token: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1
+        with:
+          artifact-name: github-pages  # Name of the artifact to deploy
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./.retype  # Updated to the correct directory
-          user_name: "github-actions[bot]"
-          user_email: "41898282+github-actions[bot]@users.noreply.github.com"
