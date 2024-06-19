@@ -3,7 +3,7 @@ name: Deploy ReType Site
 on:
   push:
     branches:
-      - main
+      - main  # Adjust if your default branch is not 'main'
 
 jobs:
   build-and-deploy:
@@ -11,12 +11,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4  # Updated to use Node.js 20
 
       - name: Set up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v3  # Updated to use Node.js 20
         with:
-          node-version: '20'  # Ensure this matches your local Node.js version
+          node-version: '20'  # Updated to Node.js 20
 
       - name: Install dependencies
         run: npm install --global retypeapp
@@ -24,10 +24,13 @@ jobs:
       - name: Build ReType site
         run: retype build
 
+      - name: List files for debugging
+        run: ls -la .retype
+
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@v4  # Updated to use Node.js 20
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          publish_dir: ./.retype  # Updated to the correct directory
           user_name: "github-actions[bot]"
           user_email: "41898282+github-actions[bot]@users.noreply.github.com"
