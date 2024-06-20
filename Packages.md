@@ -48,7 +48,7 @@ Please open a Ticket in our [Support Server](https://discord.gg/YHqYJ4V4NF) for 
 This is a new Product therfore there is a 50% discount!
 !!!
 
-The Starting price is ~~£5~~ £2.50
+The Starting price is ~~£5~~ £2.50 + £2/m for Hosting (optional)
 
 The final price will be decided by us and you.
 

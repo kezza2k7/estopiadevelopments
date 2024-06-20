@@ -4,8 +4,6 @@ url: developments.estopia.net
 cname: developments.estopia.net
 branding:
   title: Estopia Developments
-styles:
-  - /custom.css
 links:
 - text: Home
   link: https://estopia.net
