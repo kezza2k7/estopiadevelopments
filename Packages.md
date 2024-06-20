@@ -30,7 +30,11 @@ With this you also get:
 === Minecraft Plugins Development
 [Minecraft Pluigns](/Minecraft-Plugins/plugins)
 
-The base price is £5 + £2/m for maintenance (optional)
+!!!warning Warning
+This is a new Product therfore there is a 50% discount!
+!!!
+
+The base price is ~~£5~~ £2.50 + £2/m for maintenance (optional)
 
 The final price will be decided by us and you.
 
@@ -38,9 +42,13 @@ Please open a Ticket in our [Support Server](https://discord.gg/YHqYJ4V4NF) for 
 ===
 
 === Custom Discord Bot Development
-[Custom Discord Bots](/Discord-Bots/custom.md)
+[Custom Discord Bots](/Discord-Bots/custom)
 
-The Starting price is £5
+!!!warning Warning
+This is a new Product therfore there is a 50% discount!
+!!!
+
+The Starting price is ~~£5~~ £2.50
 
 The final price will be decided by us and you.
 
