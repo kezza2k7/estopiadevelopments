@@ -8,7 +8,7 @@ Estopia+ Gives you access to the following:
 - Top Support Priority.
 - Top Suggestions Priortiy.
 
-and all this for £10 per month (Free cancelation)
+ALL this for £10 per month (Free cancelation)
 === 
 
 === JellyFin
@@ -28,7 +28,7 @@ With this you also get:
 === 
 
 === Minecraft Plugins Development
-[Minecraft Pluigns](/Minecraft-Plugins/plugins)
+[Minecraft Pluigns](https://developments.estopia.net/minecraft-plugins/plugins/)
 
 !!!warning Warning
 This is a new Product therfore there is a 50% discount!
@@ -42,7 +42,7 @@ Please open a Ticket in our [Support Server](https://discord.gg/YHqYJ4V4NF) for 
 ===
 
 === Custom Discord Bot Development
-[Custom Discord Bots](/Discord-Bots/custom)
+[Custom Discord Bots](https://developments.estopia.net/Discord-Bots/custom)
 
 !!!warning Warning
 This is a new Product therfore there is a 50% discount!

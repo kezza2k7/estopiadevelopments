@@ -1,9 +1,11 @@
 input: .
 output: .retype
-url: # Add your website address here
+url: developments.estopia.net
+cname: developments.estopia.net
 branding:
   title: Estopia Developments
-  label: 
+styles:
+  - /custom.css
 links:
 - text: Home
   link: https://estopia.net
