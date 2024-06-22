@@ -44,13 +44,15 @@
 +++ JellyFin
 ## Basic Rules
 
-1. You cannot share your account with anyone else (inside or outside your household)
+1. You cannot share your account with anyone else outside your household
 
-2. You cannot try to bypass any security mesures or restrictions on your account.
+2. There is a limit of 1 stream at a time per account.
 
-3. You must remain in the [Support Server](https://discord.gg/YHqYJ4V4NF)
+3. You cannot try to bypass any security mesures or restrictions on your account.
 
-4. If a Product Price changes after we have already agreed on a price then the price we agreed on will still be in effect.
+4. You must remain in the [Support Server](https://discord.gg/YHqYJ4V4NF)
+
+5. If a Product Price changes after we have already agreed on a price then the price we agreed on will still be in effect.
 
 ## Refunds
 
