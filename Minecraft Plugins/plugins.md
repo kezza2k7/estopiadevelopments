@@ -40,7 +40,7 @@ This will describe the process that you will be on once you order.
 
 4. A plan is made with you and us *This may invovle a call*
 
-5. You make a payment to us.
+5. You make a payment to us via Paypal.
 
 6. The Minecraft Plugin Developer will still be here to awnswer any follow up questions or any changes to the plan.
 

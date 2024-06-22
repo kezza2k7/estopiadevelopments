@@ -3,7 +3,7 @@
 === Estopia+ 
 Estopia+ Gives you access to the following:
 
-- Access to [JellyFin](Jelly/JellyFin.md). <sup>2 users at 1080p<sup>
+- Access to [JellyFin](Jelly/JellyFin.md). <sup>2 users<sup>
 - 25% off our other Packages.
 - Top Support Priority.
 - Top Suggestions Priortiy.
