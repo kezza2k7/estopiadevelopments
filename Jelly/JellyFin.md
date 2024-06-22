@@ -34,24 +34,3 @@ This will describe the process that you will be on once you order.
 4. The Customer Service Rep will give you ur temp(s) accounts that you can change the passwords for.
 
 5. After 7 days you cannot ask for a refund.
-
-## Pricing 
-
-The Final Price will be decided in Step 4 of the Process with Custom Bots Starting at ~~£5~~ £2.50 with a monthly payment of £2 for us hosting your bot.
-
-The Final Price will mostly be affected by Complexity.
-
-## FAQ
-
-### Do you give the Source Code
-
-This is decided in the Plan made when ordering.
-
-### What language is it made in?
-
-It will be made in Javascript using [discord.js](https://discord.js.org/).
-
-### 3rd Party APIs
-
-I will use third party APIs for Discord Bots, even tho they can be very glitchy and unstable, but I still do them for use of Sonoran CAD, meme commands and other fun commands like them.
-
