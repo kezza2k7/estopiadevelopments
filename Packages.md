@@ -27,7 +27,7 @@ With this you also get:
 === 
 
 === Minecraft Plugins Development
-[Minecraft Pluigns](https://developments.estopia.net/minecraft-plugins/plugins/)
+[Minecraft Plugins](https://developments.estopia.net/minecraft-plugins/plugins/)
 
 !!!warning Warning
 This is a new Product therfore there is a 50% discount!
