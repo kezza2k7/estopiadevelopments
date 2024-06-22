@@ -1,4 +1,4 @@
-# Minecraft Plguins
+# Minecraft Plugins
 
 !!!warning Warning
 This is a new Product therfore there is a 50% discount!
