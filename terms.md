@@ -54,6 +54,7 @@
 
 5. If a Product Price changes after we have already agreed on a price then the price we agreed on will still be in effect.
 
+6. Misuse of Free Trial will result in IP ban.
 ## Refunds
 
 1. Refunds will not be given if it is passed 7 days after product delivery.

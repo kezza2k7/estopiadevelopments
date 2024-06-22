@@ -15,6 +15,8 @@ ALL this for £10 per month (Free cancelation)
 
 [JellyFin](Jelly/JellyFin.md)
 
+[JellyFin Trial](https://jfa.estopia.net/invite/tvCztmM5SzvGUUV2CgDhzU) (7 Days)
+
 The base price is £5 per month for 1 user 
 
 Each Addional User is £2.50 per month
