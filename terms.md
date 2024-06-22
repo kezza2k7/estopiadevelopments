@@ -54,7 +54,7 @@
 
 ## Refunds
 
-1. Refunds will not be given if it is passed 14 days after product delivery.
+1. Refunds will not be given if it is passed 7 days after product delivery.
 
 2. You must clearly show that the product was not given as advertised.
 +++ Everything Else

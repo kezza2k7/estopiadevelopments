@@ -24,7 +24,7 @@ We can make alot of diffrent features for discord bots like:
 
 ## What we will not do
 
-There is nothing in general that we won't do unless it breaks our [TOS](/terms.md).
+There is nothing in general that we won't try to do unless it breaks our [TOS](/terms.md).
 
 ## The Process
 
@@ -40,7 +40,7 @@ This will describe the process that you will be on once you order.
 
 5. You make a payment to us.
 
-6. The Discord Bot Developer will still be here to awnswer any follow questions or any changes to the plan.
+6. The Discord Bot Developer will still be here to awnswer any follow up questions or any changes to the plan.
 
 7. Your bot will be given to you ( Soruce Code / Hosted ).
 

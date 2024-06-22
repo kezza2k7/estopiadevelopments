@@ -17,8 +17,7 @@ ALL this for £10 per month (Free cancelation)
 
 The base price is £5 per month for 1 user 
 
-Each Addional User is £2 per month
-and 4k is a extra £2 per month per user
+Each Addional User is £2.50 per month
 
 With this you also get:
 - 10 Movie Suggestions ( Per month )
@@ -53,11 +52,4 @@ The Starting price is ~~£5~~ £2.50 + £2/m for Hosting (optional)
 The final price will be decided by us and you.
 
 Please open a Ticket in our [Support Server](https://discord.gg/YHqYJ4V4NF) for this.
-===
-
-==- Editing (TBD)
-
-[Editing](/Editing/Editings.md)
-
-- The Pricing is still to be Decided
 ===

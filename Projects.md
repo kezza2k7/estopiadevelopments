@@ -19,7 +19,7 @@ This Project aims as a way to lock a computer/laptop from unwanted eyes, normall
 2. There u go!
 
 ### Installation (Expert)
-1. Clone the repository: `git clone https://github.com/your-username/usb-lock.git`
+1. Clone the repository: `git clone https://github.com/kezza2k7/usb-lock.git`
 2. Navigate to the project directory: `cd usb-lock`
 3. Install the required dependencies: `cargo build`
 
@@ -91,3 +91,39 @@ Once the bot is running, invite it to your Discord server and then your users ca
 - `/setup` - Asks the user for their age and pronouns
 
 ===
+
+==- Monopoly
+
+[GitHub Link](https://github.com/kezza2k7/Monopoly)
+### Description
+This is Monopoly built in Java using InteliJ IDEA, It's classic monopoly, but planned to have some extra features/ideas
+
+### Features
+#### Ideas that could be added:
+- Trading
+- Options
+- Free Parking (options, currently does nothing)
+- Discord GUI
+- Easier way to see the game map
+- Loans
+- Discord JavaScript Version
+
+#### Added ->
+- Community Chest / chance
+- Hotels (Double the cost of a house)
+- Train Station Functionallity
+- Utilites Functionallity (4x and 10x if both )
+- Select which propties to sell when bankrupt (Teminal Version Only)
+- Colours Sets needed before upgrading
+- Game Ending Function
+
+### Installation
+1. Clone the repository: `git clone https://github.com/kezza2k7/Monopoly`
+2. Navigate to the project directory: `cd Monopoly/${"Java Discord" / "Java Terminal"}`
+3. Open the folder in InteliJ and run it ( or use another program )
+
+### Usage
+1. For the Discord version open up the Bot Class and insert your token in there 
+2. Start it 
+===
+
