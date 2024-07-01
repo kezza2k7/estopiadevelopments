@@ -12,8 +12,6 @@ Estopia is in a Rebranding currently!
 
 - The [!badge variant="info" text="Jelly"] category provides Infomation about Estopia JellyFin's Services.
 
-- The [!badge variant="info" text="Editing"] category provides Infomation about our Editing Services.
-
 - The [!badge variant="info" text="Minecraft Plugins"] category provides Infomation about our Custom Minecraft Plugin Development Services.
 
 - The [!badge variant="info" text="Discord Bots"] category provides Infomation about our Custom Discord Bots Development Services.
