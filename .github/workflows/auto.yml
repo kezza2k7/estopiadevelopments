@@ -1,50 +1,24 @@
-name: Deploy ReType Site
-
+name: Publish to Github Pages
 on:
+  workflow_dispatch:
   push:
     branches:
-      - main  # Adjust if your default branch is not 'main'
+      - main
 
 jobs:
-  build-and-deploy:
+  publish:
+    name: Publish to retype branch
+
     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '20'
-
-      - name: Install dependencies
-        run: npm install --global retypeapp
-
-      - name: Build ReType site
-        run: retype build
-
-      - name: List files for debugging
-        run: ls -la .retype
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
-        with:
-          path: ./.retype  # Path to the directory containing the static site files
-
-  deploy:
-    needs: build-and-deploy
-    runs-on: ubuntu-latest
     permissions:
-      pages: write  # Grants the workflow permission to upload artifacts to GitHub Pages
-      id-token: write
+      contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v2
 
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v1
+      - uses: retypeapp/action-build@latest
+
+      - uses: retypeapp/action-github-pages@latest
         with:
-          artifact-name: github-pages  # Name of the artifact to deploy
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          update-branch: true
